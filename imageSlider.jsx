@@ -15,8 +15,8 @@ import { Slide } from 'react-slideshow-image';
 // ];
 
 const properties = {
-    duration :5000,
-    transitionDuration: 500,
+    duration :4000,
+    transitionDuration: 1000,
     infinite: true,
     indicators: true,
     arrows: true
